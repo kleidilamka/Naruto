@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-export default function a1({ props }) {
+export default function a1({ props2 }) {
   return (
     <View>
       <Text>a1</Text>
